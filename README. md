@@ -1,6 +1,6 @@
 NAME:Willy
 TEAM:Artificial Intelligence
-10-25 COMMANDS:dir - shows files and folders
+10-25 CMD COMMANDS:dir - shows files and folders
 cd .. - go back one folder
 cd Desktop - open Desktop folder
 mkdir test - create folder named test
