@@ -1,3 +1,27 @@
 NAME:Willy
 TEAM:Artificial Intelligence
-10-25 COMMANDS:
+10-25 COMMANDS:dir - shows files and folders
+cd .. - go back one folder
+cd Desktop - open Desktop folder
+mkdir test - create folder named test
+rmdir test - delete folder test
+del file.txt - delete file
+copy file.txt copy.txt - copy file
+move file.txt Desktop - move file to Desktop
+ren file.txt new.txt - rename file
+cls - clear screen
+systeminfo - show system details
+tasklist - show running programs
+taskkill /IM notepad.exe /F - close Notepad
+shutdown /s /t 0 - shut down immediately
+shutdown /r /t 0 - restart immediately
+date - show date
+time - show time
+ipconfig - show IP address
+ping google.com - test internet connection
+tracert google.com - show route to website
+netstat - show network connections
+nslookup google.com - find website IP
+chkdsk - check disk
+sfc /scannow - repair system files
+diskpart - open disk management tool
